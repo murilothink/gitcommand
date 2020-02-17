@@ -66,7 +66,7 @@ git push --tags
 Faz downloads de todas a Branch cridas para saber as alterações
 
 git fetch origin
-git fetch --all
+git fetch --all (ver as breach novas )
 
 ### Git Pull
 
@@ -85,3 +85,6 @@ git psuh origin master
 mostram as alterações que foram feitas
 
 git diff 
+
+### 
+
