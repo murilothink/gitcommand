@@ -30,6 +30,7 @@ Deixar sua Branch direrente com o da master, manter organizado
 
 git rebase -i origin/develop
 git rebase -i origin/master
+git rebase -1 HEAD~3 (AGRUPANDO COMMIT)
 
 ### git tag
 
@@ -45,4 +46,20 @@ Faz downloads de todas a Branch cridas para saber as alterações
 git fetch origin
 git fetch --all
 
-  
+### Git Pull
+
+Vai atualizar sua Branch e vai enserir na sua master 
+
+git pull
+git fetch + git merge
+
+### Git Push
+Envia seus commit e objetos de uma branch 
+
+git psuh origin master
+
+## git diff   
+
+mostram as alterações que foram feitas
+
+git diff 
