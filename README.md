@@ -1,6 +1,6 @@
 # Curso de Git CI&T
 
-[![Murilo](https://i.imgur.com/vrVTuO5.png)]
+[![Murilo](https://i.imgur.com/XLn2CAt.png)]
 
 git diff (mostra a alteração)
 
