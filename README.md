@@ -32,6 +32,8 @@ git log --pretty=oneline --author=<your name>
   
 git log --pretty=oneline --all
 
+git log --all --pretty=format:"%h %cd %s (%an)" --since='7 days ago' ( Apenas as modificações que eu fiz )
+
 ### Criar Branch 
 
 git branch 
