@@ -14,8 +14,10 @@ git ckeckout <nome do arquivo> (volta o estado atual da banch)
   
 git reset --hard  (apaga tudo que está no status ou exclui o arquivo)
 
-###Listar Commit
+### Listar Commit
+
 git log --pretty=oneline (Você controla completamente o que o log mostra. Eu gosto do formato de linha única)
+
 git log
 
 ### Criar Branch 
