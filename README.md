@@ -7,7 +7,7 @@
 ![Murilo](https://i.imgur.com/lvDLMoH.png)
 
 git diff (mostra a alteração)
-
+.
 
 git ckeckout <nome do arquivo> (volta o estado atual da banch)
   
