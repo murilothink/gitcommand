@@ -161,6 +161,9 @@ Execute git bisect reset para indicar que você finalizou a busca;
 
 Execute o comando git show {hash}, substituindo {hash} pelo hash conferido no passo 30. Veja que é exatamente a alteração que você estava buscando;
 
+
+. 
+
 Para reverter esta alteração, execute git revert {hash}, substituindo {hash} pelo hash conferido no passo 30. Resolva quaisquer conflitos que possam ter sido encontrados;
 
 Execute git blame index.html e confira o responsável por cada linha do arquivo.
