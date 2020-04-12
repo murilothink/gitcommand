@@ -115,7 +115,7 @@ mostram as alterações que foram feitas
 git diff 
 
 ### 
-
+ teste repositorio
 
 Execute o comando git cherry-pick {hash} para trazer um commit para a branch master. Substitua {hash} pelo hash que foi copiado no passo 6;
 
